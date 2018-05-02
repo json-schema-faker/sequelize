@@ -64,7 +64,7 @@
     "pg-types": "^1.x",
     "rimraf": "^2.x",
     "semantic-release": "^15.x",
-    "sinon": "^4.x",
+    "sinon": "^5.0.3",
     "sinon-chai": "^2.x",
     "sqlite3": "^4.x",
     "tedious": "^2.x",
